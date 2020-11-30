@@ -1,0 +1,20 @@
+$black: #222;
+$green: #82b340;
+$white: #fff;
+$gray: #ececec;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: 'Open Sans',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  background-color: $gray;
+}
+
