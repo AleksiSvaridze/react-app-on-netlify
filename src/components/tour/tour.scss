@@ -1,7 +1,7 @@
 @import '../../index.scss';
 
 .tour {
-    background-color: $gray;
+    background-color: $white;
     margin: 2rem 0;
 
     .img-container { 
@@ -35,7 +35,7 @@
             text-transform: uppercase;
         }
         h4 {
-            color: $white;
+            color: $black;
             text-transform: capitalize;
         }
         h5 {
@@ -47,9 +47,9 @@
             }
         }
         p {
-            color: $green;
+            color: $white;
             font-size: .8rem;
-            background-color: $white;
+            background-color: $black;
             padding: 1rem;
         }
     }
